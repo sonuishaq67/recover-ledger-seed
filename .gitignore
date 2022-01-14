@@ -1,0 +1,7 @@
+allnumbers
+log.log
+seeds
+all/*.txt
+build
+dist
+*.egg-info
